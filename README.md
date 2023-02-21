@@ -14,7 +14,7 @@ npm run serve
 npm run build
 ```
 
-Web application to watch a video and send your opinion to an api, you can modify the survey in the variable called "survey" with the next format 
+Web application to watch a video and send your opinion to an api, you can modify the survey in the variable called "survey" in the 38 with the next format 
 ```
 questions: [
         {
