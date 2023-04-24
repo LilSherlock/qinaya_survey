@@ -1,4 +1,4 @@
-# survey-qinaya
+# survey creator
 
 ## Project setup
 ```
